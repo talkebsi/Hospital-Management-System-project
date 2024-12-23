@@ -28,6 +28,10 @@ The file **`Schema_Creation.sql`** establishes the foundation of the hospital da
 
 The schema connects these tables using **primary and foreign keys** to maintain a logical and reliable structure.
 
+
+The diagram below represents the Entity Relationship Diagram (ERD) for the Hospital Management Database. It visualizes the relationships between various entities (tables) within the database, illustrating how they are interconnected.
+![ERD](https://github.com/user-attachments/assets/63f8195f-919a-4a73-bd47-3c9d85238e09)
+
 ---
 
 ## 2. 🔐 Data Security
