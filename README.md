@@ -40,7 +40,6 @@ The file **`Encryption_&_Decryption.sql`** focuses on safeguarding sensitive dat
 
 - **Creating Encryption Keys and Certificates**: Setting up a secure encryption framework.
 - **Encrypting Sensitive Data**: Securing patient and doctor phone numbers using **AES-256 encryption**.
-- **Decryption Demonstration**: Showing how authorized users can retrieve decrypted information when needed.
 
 This ensures the **confidentiality** of sensitive information while complying with **data protection standards**.
 
